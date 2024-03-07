@@ -4,7 +4,8 @@
 npm create astro@latest -- --template basics
 ```
 
-![Uploading image.png…]()
+![image](https://github.com/kigkali/portafolio-Astro/assets/112664542/646d2ede-bf4c-464e-a121-00ed22ac38c6)
+
 
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
